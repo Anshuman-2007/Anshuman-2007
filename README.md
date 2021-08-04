@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anshuman-2007
-- 👀 I’m interested in Gaming
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Wallify {THE PHOTO REPOSITORY}
 - 📫 How to reach me wallify.media@gmail.com
